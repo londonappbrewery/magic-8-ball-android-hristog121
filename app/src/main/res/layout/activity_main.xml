@@ -18,8 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:text="@string/text_button"
         android:background="#3f51b5"
-        android:text="Button"
         android:textColor="#ffffff" />
 
     <TextView
